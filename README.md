@@ -1,6 +1,6 @@
-# Ascensor — Design Your Elevator (3D Lift Configurator)
+# Ascensor - Design Your Elevator (3D Lift Configurator)
 
-Highest Quality Performance — Interactive 3D Lift Cabin Configurator. Built with React 19, Three.js / React Three Fiber, and Tailwind CSS.
+Highest Quality Performance - Interactive 3D Lift Cabin Configurator. Built with React 19, Three.js / React Three Fiber, and Tailwind CSS.
 
 ---
 
